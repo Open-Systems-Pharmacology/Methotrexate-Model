@@ -14,4 +14,4 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
 ## References
-[1] **_tbd._**
+[1] **_Schaller, S., Michon, I., Baier, V. et al. Evaluation of BCRP-Related DDIs Between Methotrexate and Cyclosporin A Using Physiologically Based Pharmacokinetic Modelling. Drugs R D (2024). https://doi.org/10.1007/s40268-024-00495-1_**
